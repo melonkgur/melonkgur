@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @melonkgur
-`
-commands.spawn_bundle(NodeBundle {
+``commands.spawn_bundle(NodeBundle {
         style: Style {
             size:  Size::new(Val::Percent(100.0), Val::Percent(100.0)),
             justify_content: JustifyContent::Center,
@@ -102,4 +101,4 @@ commands.spawn_bundle(NodeBundle {
             }).insert(UpButton);
         }).insert(Remove);
     });
-`
+``
