@@ -2,6 +2,6 @@
 
 - member of FRC team 484 - Roboforce
 
-- creates obhorrent amalgamations using rust, flutter, swift sometimes, and maybe even typescipt if i'm in the mood to suffer
+- creates abhorrent amalgamations using rust, flutter, swift sometimes, and maybe even typescipt if i'm in the mood to suffer
 
 - mad silly
