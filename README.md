@@ -2,10 +2,6 @@
 
 - member of FRC team 484 - Roboforce
 
-- creates obhorrent fabrications using rust, flutter, swift sometimes, and also maybe svelte if i feel like it. also java is there somewhere, but only against my will. 
+- creates obhorrent amalgamations using rust, flutter, swift sometimes, and maybe even typescipt if i'm in the mood to suffer
 
 - mad silly
-
-<br><br>
-
-_whats a git anyway_
