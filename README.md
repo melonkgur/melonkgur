@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @melonkgur
 
-- 👋 member of FRC team 484 - Roboforce
+- 👋 Member of FRC team 484 - Roboforce 
 
-- 👋 creates abhorrent fabrications using rust, flutter, swift, and maybe even typescipt if i'm in the mood to suffer
+- 👋 Creates egregious little things using mostly rust, c++, or swift. maybe a little bit of type/javascript here and there.
+
+- 👋 i used flutter once, does that count
 
 - 👋 mad silly
